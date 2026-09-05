@@ -1,0 +1,9 @@
+{
+  "name": "@coveredon/coveredon-chart-plugin",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Pipeline chart widget plugin for Baserow 2.3.3",
+  "keywords": ["baserow", "chart", "widget", "dashboard"],
+  "homepage": "https://github.com/MkInc42/coveredon-baserow-chart-plugin",
+  "license": "MIT"
+}
