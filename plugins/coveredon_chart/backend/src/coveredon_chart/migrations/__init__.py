@@ -1,0 +1,1 @@
+"""Django migrations for coveredon_chart plugin."""

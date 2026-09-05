@@ -1,0 +1,1 @@
+"""Covered On chart plugin — pipeline chart widget for Baserow dashboards."""
